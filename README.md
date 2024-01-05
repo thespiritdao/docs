@@ -16,6 +16,4 @@ SpiritDAO is a non-profit tokenized membership community for individuals embraci
 
 &#x20;    🌐 Further the [<mark style="color:yellow;">Eight Dignities</mark>](learn-more/vision-and-message/eight-dignities.md)<mark style="color:yellow;">.</mark>
 
-{% hint style="info" %}
 SpiritDAO is a non-profit spiritual community. We are not an investment club.
-{% endhint %}
