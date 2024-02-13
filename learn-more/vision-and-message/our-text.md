@@ -1,6 +1,20 @@
 ---
-cover: ../../.gitbook/assets/webimageholder (1).png
-coverY: 414
+cover: ../../.gitbook/assets/twitbannerbooks.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 📘 Our Text

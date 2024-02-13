@@ -2,7 +2,7 @@
 
 ### <mark style="color:blue;">What — Our Mission</mark>
 
-SpiritDAO furthers individual and systemic actualization in alignment with the [<mark style="color:yellow;">single truth</mark>](the-single-truth.md) and the [<mark style="color:yellow;">relational universe</mark>](the-relational-universe.md) through our [<mark style="color:yellow;">three core purposes</mark>](../../).
+SpiritDAO furthers individual and systemic actualization in alignment with the [<mark style="color:yellow;">single truth</mark>](the-single-truth.md) and the [<mark style="color:yellow;">relational universe</mark>](the-relational-universe.md) through our [<mark style="color:yellow;">three core purposes</mark>](broken-reference).
 
 ### <mark style="color:blue;">Why — Our Vision</mark>
 
