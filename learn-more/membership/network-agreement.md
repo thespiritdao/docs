@@ -85,7 +85,7 @@ To the fullest extent permitted by the applicable law, you agree to indemnify, h
 
 #### <mark style="color:blue;">**Legal Personality**</mark>
 
-SpiritDAO is a <mark style="color:red;">STATE</mark> incorporated nonprofit EIN # <mark style="color:red;">xxx</mark>&#x20;
+SpiritDAO is a DE-incorporated nonprofit EIN # 99-1308806
 
 #### <mark style="color:blue;">**Modifications to the SpiritDAO Network Agreement**</mark>
 
