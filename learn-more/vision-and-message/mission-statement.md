@@ -14,4 +14,4 @@ We're building an action-oriented community of aligned practitioners and partner
 
 ### <mark style="color:blue;">Who — Our Community</mark>
 
-SpiritDAO is an inclusive tokenized membership community. [<mark style="color:yellow;">Members</mark>](../membership/membership-overview.md) benefit from various access and agency pathways within the community. All members are considered a stakeholders.&#x20;
+SpiritDAO is an inclusive tokenized membership community. [<mark style="color:yellow;">Members</mark>](../membership/membership-overview.md) benefit from various access and agency pathways within the community. All members are considered stakeholders.&#x20;
