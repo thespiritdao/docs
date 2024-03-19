@@ -10,7 +10,7 @@
 
 🤝 **Discord:** [<mark style="color:yellow;">https://discord.gg/Dg94YJxAEm</mark>](https://discord.gg/Dg94YJxAEm)
 
-💬 **Telegram**: [<mark style="color:yellow;">https://t.me/+-4Vd5C51QC9iZTA5</mark>](https://t.me/+-4Vd5C51QC9iZTA5)
+💬 **Telegram**: [<mark style="color:yellow;">https://t.me/thespiritdao</mark>](https://t.me/thespiritdao)
 
 :arrow\_forward: **YouTube**: [<mark style="color:yellow;">https://www.youtube.com/@SpiritDAO</mark>](https://www.youtube.com/@SpiritDAO)
 
