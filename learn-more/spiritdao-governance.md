@@ -1,4 +1,4 @@
-# ⚖ SpiritDAO Governance
+# ⚖️ SpiritDAO Governance
 
 The purpose of the SpiritDAO Governance Proposal Process ("the SDGP process") is to provide a structured process for making changes to the shared resources of the SpiritDAO Network. For these shared resources, governance processes are needed to grant or deny access and approve or reject proposed changes.
 
@@ -21,6 +21,44 @@ For Primary DAO votes, the Executive Pod holds the right to organize proposals a
 #### Pods
 
 Pods are controlled by the Primary DAO but may operate within custom frameworks of governance.  See [<mark style="color:yellow;">Pod Agreements</mark>](pod-agreements.md) for more details about existing Pods.
+
+</details>
+
+<details>
+
+<summary>Executive Director</summary>
+
+#### In compliance with the legal requirements associated with operating a 501c3 Nonprofit in the United States, SpiritDAO has a formal Executive Director. This section details the responsibilities and roles of an Executive Director at SpiritDAO.
+
+**1. Position Title**
+
+**Executive Director**\
+Held by: [<mark style="color:yellow;">Ron Rivers</mark>](https://twitter.com/riversmind) as of 4/1/24
+
+**2. Membership in the Executive Pod**
+
+The Executive Director shall be a member of the Executive Pod. This membership is essential for ensuring that the Executive Director is fully integrated and aligned with the strategic direction and governance model of the DAO.
+
+**3. Appointment**
+
+The Executive Director serves at the privilege and discretion of the Executive Pod. Appointment to this role is contingent upon the consent and approval of the Executive Pod members, as outlined in the DAO's governance framework.
+
+**4. Role and Responsibilities**
+
+The Executive Director serves primarily as a figurehead for the DAO. The responsibilities of the Executive Director include, but are not limited to:
+
+* Representing the DAO in external engagements and communications, ensuring a consistent and professional presentation of the DAO's objectives and achievements.
+* Implementing the decisions and directions determined by the Executive Pod and the broader DAO membership.
+* Facilitating communication between the Executive Pod and other components of the DAO structure, ensuring that all parts of the organization are informed and aligned with the overall strategic direction.
+* Ensuring that the operations of the DAO comply with applicable laws and regulations pertinent to 501(c)(3) organizations.
+
+**5. Nature of the Role**
+
+The role of the Executive Director is primarily symbolic and does not entail autonomous decision-making powers. The Executive Director is expected to act in accordance with the decisions and policies established by the Executive Pod and is accountable to the Pod for carrying out the collective will of the DAO.
+
+**6. Accountability and Review**
+
+The performance of the Executive Director shall be reviewed periodically by the Executive Pod, in accordance with the DAO's standard procedures for performance assessment. This review will focus on the effectiveness of the Executive Director in fulfilling the role as a representative and facilitator within the DAO's governance structure.
 
 </details>
 
