@@ -26,6 +26,8 @@
 
 **👋 Join SpiritDAO:** [<mark style="color:yellow;">https://join.spiritdao.org</mark> ](https://join.spiritdao.org)
 
+<mark style="color:yellow;">💡</mark> **Member Onboarding:** [<mark style="color:yellow;">https://www.bonfire.xyz/spiritdao/home</mark>](https://www.bonfire.xyz/spiritdao/home)
+
 💵 **Community Wallet**: [<mark style="color:yellow;">0xF3c47077C406FeA33daD4BE498fDf03Cb5d4537f</mark>](https://etherscan.io/address/0xF3c47077C406FeA33daD4BE498fDf03Cb5d4537f)
 
 **🟡 $SELF Token Contract:** [<mark style="color:yellow;">0xed034912584d0bcdefc396d27b641f4419cec865</mark>](https://optimistic.etherscan.io/token/0xed034912584d0bcdefc396d27b641f4419cec865)
