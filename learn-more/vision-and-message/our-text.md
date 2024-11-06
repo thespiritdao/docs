@@ -17,9 +17,11 @@ layout:
     visible: true
 ---
 
-# 📘 Our Text
+# 📘 Living Works
 
-## **New frameworks of meaning and value informed by our most advanced knowledge and theory.**&#x20;
+## [<mark style="color:yellow;">Self-actualization in the Age of Crisis</mark>](https://www.singletruth.org)
+
+#### Originally authored by Ron Rivers
 
 Cosmology and physics have revealed the single truth. It changes everything we think we know about the universe and demands a reimagination of how we organize our relationships with ourselves and others. Self-Actualization in the Age of Crisis binds spiritual renaissance to systemic reformation as a pathway toward shared transcendence.
 
@@ -40,8 +42,7 @@ In _<mark style="color:green;">**Self-Actualization in the Age of Crisis**</mark
 
 This text is a living document co-evolving alongside the SpiritDAO community.&#x20;
 
-\
-
+The spiritual effort laid out in the book was not named, we now call it Temporal Naturalism.&#x20;
 
 
 
@@ -76,6 +77,14 @@ This text is a living document co-evolving alongside the SpiritDAO community.&#x
 * [Buy on Audible](https://www.audible.com/pd/Self-Actualization-in-the-Age-of-Crisis-Audiobook/B0BJGHVSYJ) (supports SpiritDAO community wallet)
 
 </details>
+
+## Becoming More
+
+A community initiative to translate [<mark style="color:yellow;">Self-actualization in the Age of Crisis</mark>](https://www.singletruth.org) into a graphic novel format.&#x20;
+
+Not yet for sale.
+
+&#x20;
 
 ‍
 

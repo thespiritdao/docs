@@ -18,7 +18,7 @@
 
 :file\_folder: **Documentation**: [<mark style="color:yellow;">https://docs.spiritdao.org</mark>](https://docs.spiritdao.org)
 
-<mark style="color:yellow;">📆</mark> **Community Calendar:** [<mark style="color:yellow;">https://calendar.google.com/calendar/u/1/r?cid=Y19hYTk2YWJhY2JhMWI1OGFlNDE0N2Y0ZWMxMjlmM2U4ODUxMjJmOGE2Zjc0N2QxMGRhNDhkYzg0NmQ5ZWRmY2QzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20</mark>](https://calendar.google.com/calendar/u/1/r?cid=Y19hYTk2YWJhY2JhMWI1OGFlNDE0N2Y0ZWMxMjlmM2U4ODUxMjJmOGE2Zjc0N2QxMGRhNDhkYzg0NmQ5ZWRmY2QzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+<mark style="color:yellow;">📆</mark> **Community Calendar:** [<mark style="color:yellow;">https://www.spiritdao.org/community#event-calendar</mark>](https://www.spiritdao.org/community#event-calendar)
 
 
 

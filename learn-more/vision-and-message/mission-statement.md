@@ -14,4 +14,4 @@ We're building an action-oriented community of aligned practitioners and partner
 
 ### <mark style="color:blue;">Who — Our Community</mark>
 
-SpiritDAO is an inclusive tokenized membership community. [<mark style="color:yellow;">Members</mark>](../membership/membership-overview.md) benefit from various access and agency pathways within the community. All members are considered stakeholders.&#x20;
+SpiritDAO is a registered 501(c)(3) 170(b)(1)(A)(i) Church of Temporal Naturalism, EIN #99-1308806. Our Church is organized as a DAO (decentralized autonomous organization) so that we might empower a variety of metamodern spiritual alternatives.

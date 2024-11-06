@@ -19,6 +19,8 @@ layout:
 
 # 🦸 Membership Details
 
+**Note: As of 11/5/24 Membership is Invite-only - we are rethinking our approach during this period.**
+
 SpiritDAO leverages time-limited, non-transferable digital tokens to verify membership, identity, contribution, and benefits such as members' access to virtual and physical resources.&#x20;
 
 Tokens are issued in batches (rounds) with gaps between new member onboarding to ensure organic growth. We strictly enforce a single membership token per individual.

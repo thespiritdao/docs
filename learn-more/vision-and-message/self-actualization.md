@@ -7,9 +7,9 @@
 
 Individual actualization represents our journeys towards alignment with the single truth and relational universe. It recognizes that in a relational universe governed by the single truth, the individual is always the sum of the event chains they inherit, except for the moment itself. We can change our individual and shared direction here and now.&#x20;
 
-To better empower us to do this, we develop new frameworks of meaning and value in alignment with the single truth and the relational universe. At the heart of our rejection of the past's influence on the present is the embrace of our own embodied infinity.&#x20;
+To better empower us to do this, we embrace frameworks of meaning and value in alignment with the single truth and the relational universe. At the heart of our rejection of the past's influence on the present is the embrace of our own embodied infinity.&#x20;
 
-The actualized individual is a shapeshifter whose agency and access within the world grant them the capacity to become anything. We inhabit a reality of exponentially increasing change, and we must become the individuals who can thrive in such moments.&#x20;
+The actualized individual is a shapeshifter whose agency and access within the world grant them the capacity to choose to become in any direction. We inhabit a reality of exponentially increasing change, and we must become the individuals who can thrive in such moments.&#x20;
 
 Systemic actualization represents our spiritual project of unbinding the individual access and agency from birth lottery and a past we had no say in choosing.&#x20;
 

@@ -18,4 +18,3 @@ When we become a part of SpiritDAO, we believe in and contribute to something gr
 
 A shared vision of humanity in deep alignment with nature and more fully representative of the embodied infinity we possess.
 
-<mark style="color:purple;">**JOIN SPIRITDAO:**</mark> [<mark style="color:yellow;">https://join.spiritdao.org</mark> ](https://join.spiritdao.org)
